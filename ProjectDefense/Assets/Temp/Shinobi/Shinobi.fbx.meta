@@ -3,27 +3,7 @@ guid: ed9857bfd64e5464590878269534ae1a
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects:
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: Kachujin_diffuse
-    second: {fileID: 2800000, guid: c583664bc9f58fb469f4b2eaa5d385ca, type: 3}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: Kachujin_diffuse_body
-    second: {fileID: 2800000, guid: bd46115a37d59f64cb6f7abe622e3557, type: 3}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: Kachujin_normal
-    second: {fileID: 2800000, guid: e5d8050d2d609944481b6360594c23c5, type: 3}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: Kachujin_specular
-    second: {fileID: 2800000, guid: bb4585ee0825cd54e9d2f710e5360dab, type: 3}
+  externalObjects: {}
   materials:
     materialImportMode: 2
     materialName: 0
