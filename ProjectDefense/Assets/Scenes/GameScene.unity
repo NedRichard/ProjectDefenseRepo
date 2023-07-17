@@ -490,6 +490,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6962a322d5a2b754ea3be6a6fffb20f1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  unitAnimator: {fileID: 1749734465}
 --- !u!1001 &737551918
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -909,6 +910,12 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1439277872}
   m_Mesh: {fileID: 10207, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!95 &1749734465 stripped
+Animator:
+  m_CorrespondingSourceObject: {fileID: 5866666021909216657, guid: ed9857bfd64e5464590878269534ae1a,
+    type: 3}
+  m_PrefabInstance: {fileID: 737551918}
+  m_PrefabAsset: {fileID: 0}
 --- !u!4 &1765433936 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 1852576806548013000, guid: ed9857bfd64e5464590878269534ae1a,
