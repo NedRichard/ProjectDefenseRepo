@@ -209,7 +209,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 330585543}
   m_LocalRotation: {x: 0.07254131, y: 0.92743546, z: -0.26331007, w: 0.25547817}
-  m_LocalPosition: {x: -4.56, y: 6.89, z: 8.56}
+  m_LocalPosition: {x: 0.94, y: 7.12, z: 17.11}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -471,6 +471,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b939c68fe7a0e6a48b5a32f4e6a3b4b8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  gridDebugObjectPrefab: {fileID: 2859535886141364621, guid: ca28d019f1c9b53489ea6386e4e1b298,
+    type: 3}
 --- !u!1001 &947971946
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -492,7 +494,7 @@ PrefabInstance:
     - target: {fileID: 7847975106968516188, guid: 609c576d13047414882cad1460383be0,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: -3.1383839
+      value: 4
       objectReference: {fileID: 0}
     - target: {fileID: 7847975106968516188, guid: 609c576d13047414882cad1460383be0,
         type: 3}
@@ -502,7 +504,7 @@ PrefabInstance:
     - target: {fileID: 7847975106968516188, guid: 609c576d13047414882cad1460383be0,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: -3.1456776
+      value: 8
       objectReference: {fileID: 0}
     - target: {fileID: 7847975106968516188, guid: 609c576d13047414882cad1460383be0,
         type: 3}
@@ -850,7 +852,7 @@ PrefabInstance:
     - target: {fileID: 7847975106968516188, guid: 609c576d13047414882cad1460383be0,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: 0
+      value: 8
       objectReference: {fileID: 0}
     - target: {fileID: 7847975106968516188, guid: 609c576d13047414882cad1460383be0,
         type: 3}
@@ -860,7 +862,7 @@ PrefabInstance:
     - target: {fileID: 7847975106968516188, guid: 609c576d13047414882cad1460383be0,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: 0
+      value: 10
       objectReference: {fileID: 0}
     - target: {fileID: 7847975106968516188, guid: 609c576d13047414882cad1460383be0,
         type: 3}
